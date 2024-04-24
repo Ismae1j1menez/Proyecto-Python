@@ -1,5 +1,5 @@
 # IE 0117 - Programación Bajo Plataformas Abiertas
-### Profesor: Ismael Jiménez Carballo - B94009
+### Ismael Jiménez Carballo - B94009
 ### Proyecto de Python
 
 ---
